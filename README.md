@@ -33,7 +33,7 @@ You can connect with me on:
 [![facebook](https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png)][2]
 [![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][3]
 
-[0]: https://github.com/suroora
+[0]: mailto:akmsuroorafathima@gmail.com
 [1]: https://github.com/suroora
 [2]: https://www.facebook.com/profile.php?id=100021202861006
 [3]: https://www.linkedin.com/in/fathima-suroora-7a6716199/
