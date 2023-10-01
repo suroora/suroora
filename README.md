@@ -4,7 +4,8 @@ I'm a passionate Data Science enthusiast and a Python enthusiast with a strong d
 
 >🌱 Currently, I'm in the early stages of my career, exploring the exciting world of data analysis and machine learning.
 
-<br>
+
+
 ## 📫 Connect with Me
 
 
