@@ -18,7 +18,7 @@ I'm a passionate Data Science enthusiast and a Python enthusiast with a strong d
 <hr>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,django,github,linux,matlab,mysql,py,r,tensorflow" />
+    ##<img src="https://skillicons.dev/icons?i=html,css,django,github,linux,matlab,mysql,py,r,tensorflow,atom" />
   </a>
 </p>
 <hr>
