@@ -6,7 +6,7 @@ I'm a passionate Data Science enthusiast and a Python enthusiast with a strong d
 
 ## 🔧 Skills
 
-- Data Analysis with Python
+```- Data Analysis with Python
 - model building
 - machine learning
 - Data Visualization using Seaborn and Matplotlib
@@ -14,11 +14,11 @@ I'm a passionate Data Science enthusiast and a Python enthusiast with a strong d
 - CNN and NLP
 - Data Cleaning and Preprocessing
 - SQL
-- Django python framwork
+- Django python framwork```
 <hr>
 <p align="center">
   <a href="https://skillicons.dev">
-    ##<img src="https://skillicons.dev/icons?i=html,css,django,github,linux,matlab,mysql,py,r,tensorflow,atom" />
+    <img src="https://skillicons.dev/icons?i=html,css,django,github,linux,matlab,mysql,py,r,tensorflow,atom" />
   </a>
 </p>
 <hr>
