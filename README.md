@@ -15,8 +15,12 @@ I'm a passionate Data Science enthusiast and a Python enthusiast with a strong d
 - Data Cleaning and Preprocessing
 - SQL
 - Django python framwork
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,django,github,linux,matlab,mysql,py,r,tensorflow" />
+  </a>
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,django,github,linux,matlab,mysql,py,r,tensorflow)](https://skillicons.dev)
 
 ## 📫 Connect with Me
 
