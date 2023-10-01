@@ -29,9 +29,9 @@ I'm a passionate Data Science enthusiast and a Python enthusiast with a strong d
 You can connect with me on:
 
 [![github](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][0]
-[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1]
-[![facebook](https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png)][2]
-[![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][3]
+[![github](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=black)][1]
+[![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)][2]
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black)][3]
 
 [0]: mailto:akmsuroorafathima@gmail.com
 [1]: https://github.com/suroora
