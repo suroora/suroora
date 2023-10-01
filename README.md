@@ -2,10 +2,10 @@
 
 I'm a passionate Data Science enthusiast and a Python enthusiast with a strong desire to learn and grow. I am dedicated to leveraging data-driven insights to solve real-world problems and create meaningful impact. 
 
-🌱 Currently, I'm in the early stages of my career, exploring the exciting world of data analysis and machine learning.
+>🌱 Currently, I'm in the early stages of my career, exploring the exciting world of data analysis and machine learning.
 
 ## 🔧 Skills
->
+
 - Data Analysis with Python
 - model building
 - machine learning
@@ -15,8 +15,8 @@ I'm a passionate Data Science enthusiast and a Python enthusiast with a strong d
 - Data Cleaning and Preprocessing
 - SQL
 - Django python framwork
->
-<hr>
+
+  
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,django,github,linux,matlab,mysql,py,r,tensorflow,atom" />
