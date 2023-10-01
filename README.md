@@ -21,31 +21,20 @@ I'm a passionate Data Science enthusiast and a Python enthusiast with a strong d
 [3]: https://www.linkedin.com/in/fathima-suroora-7a6716199/
 
 
-
-
 ## 🔧 Skills
-
 - Data Analysis with Python
 - model building
 - machine learning
 - Data Visualization using Seaborn and Matplotlib
 - Tableau and PowerBI
-- CNN and NLP
 - Data Cleaning and Preprocessing
 - SQL
 - Django python framwork
 
+<h4><img src="https://skillicons.dev/icons?i=html,css,django,github,linux,matlab,mysql,py,r,tensorflow,atom" />
+
   
-
-
-  <h4><img src="https://skillicons.dev/icons?i=html,css,django,github,linux,matlab,mysql,py,r,tensorflow,atom" />
-  
-
-
-
-
-
-📊 Check out my GitHub stats below!
+## 📊 Check out my GitHub stats below!
 
 [![Fathima Suroora's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suroora&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
