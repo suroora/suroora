@@ -5,7 +5,7 @@ I'm a passionate Data Science enthusiast and a Python enthusiast with a strong d
 >🌱 Currently, I'm in the early stages of my career, exploring the exciting world of data analysis and machine learning.
 
 ## 🔧 Skills
-```
+
 - Data Analysis with Python
 - model building
 - machine learning
@@ -15,7 +15,7 @@ I'm a passionate Data Science enthusiast and a Python enthusiast with a strong d
 - Data Cleaning and Preprocessing
 - SQL
 - Django python framwork
-```
+
   
 <p align="center">
   <a href="https://skillicons.dev">
