@@ -16,7 +16,7 @@ I'm a passionate Data Science enthusiast and a Python enthusiast with a strong d
 - SQL
 - Django python framwork
 
-[![MySkills(https://skillicons.dev/iconsi=html,css,django,github,linux,matlab,mysql,py,r,tensorflow,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,django,github,linux,matlab,mysql,py,r,tensorflow,flutter&perline=3)](https://skillicons.dev)
 
 ## 📫 Connect with Me
 
