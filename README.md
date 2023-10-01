@@ -15,13 +15,13 @@ I'm a passionate Data Science enthusiast and a Python enthusiast with a strong d
 - Data Cleaning and Preprocessing
 - SQL
 - Django python framwork
-  ##
+<hr>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,django,github,linux,matlab,mysql,py,r,tensorflow" />
   </a>
 </p>
-##
+<hr>
 
 ## 📫 Connect with Me
 
