@@ -1,4 +1,5 @@
 <h1 align="center"><i>Hi, I'm Fathima Suroora! 👋</i></h1>
+<img align="right" src="https://media.tenor.com/CigpzapemsoAAAAi/hi-robot.gif" width="200" height="250" alt="robot"/>
 
 I'm a passionate Data Science enthusiast and a Python enthusiast with a strong desire to learn and grow. I am dedicated to leveraging data-driven insights to solve real-world problems and create meaningful impact. 
 
